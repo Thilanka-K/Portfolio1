@@ -121,9 +121,10 @@
                 <img src="images/intro-bg.jpg" srcset="images/intro-bg.jpg 1x, images/intro-bg.jpg 2x" alt="">
             </div> <!-- s-intro__content-media -->                
 
-            <div class="s-intro__btn-download">
-                <a class="btn btn--stroke" href="#0">Get My CV</a>
-            </div> <!-- end s-intro__btn-download -->
+           <div class="s-intro__btn-download">
+    <a class="btn btn--stroke" href="https://github.com/Chilamalee20/Portfolio1/blob/472540927a59ce92d18deb53c06a10b7ee751c75/THILANKA%20KAVINDA%20-%20CV2.pdf" target="_blank" download>Get My CV</a>
+</div> <!-- end s-intro__btn-download -->
+
             
             <div class="s-intro__scroll-down">
                 <a href="#about" class="smoothscroll">
