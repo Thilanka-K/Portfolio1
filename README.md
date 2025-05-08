@@ -176,6 +176,12 @@
                             <h4 class="s-about__block-title">Education</h4>
 
                             <ul class="s-about__list">
+                            <li>
+                                    <a href="#0">
+                                    Msc Business Analytics
+                                    <span>Cardiff MEtropolion University (ICBT) - Sri Lanka</span>
+                                    </a>                                        
+                                </li>
                                 <li>
                                     <a href="#0">
                                         BSc in Applied Data Science and Communication
