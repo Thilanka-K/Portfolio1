@@ -211,6 +211,12 @@
                                     Power BI - Data Visualization
                                 </li>
                                 <li>
+                                    Power Apps
+                                </li>
+                                <li>
+                                Smart Sheets
+                                </li>
+                                <li>
                                     MS Office 365
                                 </li>
                                 <li>
