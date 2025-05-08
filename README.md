@@ -214,7 +214,7 @@
                                     Power Apps
                                 </li>
                                 <li>
-                                Smart Sheets
+                                    Smart Sheets
                                 </li>
                                 <li>
                                     MS Office 365
