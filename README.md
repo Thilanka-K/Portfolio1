@@ -82,8 +82,8 @@
                         <h1 class="s-intro__content-title">
                         I'm THILANKA KAVINDA <br>
                         <h2 class="s-intro__content-title" style="font-size: 20px;"></h2>
-                        Planning Executive <br>
-                        at Brandix Apparel Solutions.
+                        Operation Assistant <br>
+                        at Emirates Flight Catering.
                         </h1>                            
 
                         <div class="s-intro__content-btns">
