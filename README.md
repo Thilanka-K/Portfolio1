@@ -150,7 +150,7 @@
                     </div> <!-- end section-header -->
 
                     <p class="attention-getter">
-                        I am a dedicated professional with a background in Applied Data Science and Communication. My current role as a planning executive at Brandix has allowed me to develop a robust skill set in data analysis and strategic planning. I am passionate about using data to drive business success and am committed to continuous learning and professional growth.
+                        I am a dedicated professional with a background in Applied Data Science and Communication. At Brandix, I gained strong experience in data analysis, forecasting, and strategic planning. Currently, I work as an Operations Assistant at Emirates Flight Catering, where my role closely involves data analysis and operational planning to support process improvements. I am passionate about using data to drive business success and continuously seek to expand my skills with new technologies and methodologies.
                     </p>
 
                     <p class="attention-getter">
